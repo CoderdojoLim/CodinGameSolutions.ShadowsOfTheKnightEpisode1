@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  @author Mark Crowe
+ @see https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1
  */
 class Player
 {
@@ -49,6 +50,7 @@ class Player
 		}
 	}
 }
+
 class Point
 {
 	public Point()
